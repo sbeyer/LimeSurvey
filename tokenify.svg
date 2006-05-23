@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1577"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   width="210mm"
+   height="297mm"
+   sodipodi:docbase="C:\Documents and Settings\Owner\Desktop\Work\PHPsurveyor GUI Icons\New Folder"
+   sodipodi:docname="do_survey.svg">
+  <metadata
+     id="metadata1582">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1580">
+    <linearGradient
+       id="linearGradient3588">
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:1;"
+         offset="0"
+         id="stop3590" />
+      <stop
+         style="stop-color:#c3c3c3;stop-opacity:1;"
+         offset="1"
+         id="stop3592" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3588"
+       id="linearGradient3594"
+       x1="296.30008"
+       y1="541.70227"
+       x2="93.441475"
+       y2="318.43143"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="721"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.35539095"
+     inkscape:cx="661.91625"
+     inkscape:cy="610.56901"
+     inkscape:window-x="1020"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg1577" />
+  <path
+     style="fill:url(#linearGradient3594);fill-opacity:1.0;fill-rule:evenodd;stroke:#000000;stroke-width:10.85530853px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 217.4848,323.85907 L 176.98308,324.87676 L 178.20286,349.57187 L 160.04452,361.12849 L 136.1614,332.40835 L 111.42058,358.12114 L 135.16657,384.92019 L 128.67552,399.9148 L 98.869129,398.91997 L 98.869129,436.4829 L 125.91598,437.50059 L 135.16657,454.46201 L 112.43827,479.56491 L 139.23731,504.32858 L 162.9833,480.24337 L 176.46101,492.74911 L 175.48904,517.51278 L 214.54602,517.55849 L 213.57404,491.05296 L 229.81129,476.51185 L 251.86114,500.25784 L 277.6425,476.51185 L 254.57497,451.74818 L 265.13676,431.7337 L 290.87241,429.51909 L 290.84955,396.25185 L 258.12724,397.24668 L 253.55728,383.9025 L 276.62481,361.1742 L 256.61034,337.08898 L 231.05393,355.92939 L 216.48997,347.60506 L 217.4848,323.85907 z M 192.49617,399.16778 C 193.16974,399.09928 193.83995,399.16778 194.53154,399.16778 C 205.59636,399.16778 214.54602,408.11744 214.54602,419.18225 C 214.54602,430.24707 205.59636,439.19673 194.53154,439.19673 C 183.46672,439.19673 174.51706,430.24707 174.51706,419.18225 C 174.51706,408.80903 182.39248,400.19491 192.49617,399.16778 z "
+     id="path1837"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccssssc" />
+</svg>

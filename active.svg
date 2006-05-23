@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3668"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   width="210mm"
+   height="297mm"
+   sodipodi:docbase="C:\Documents and Settings\Owner\Desktop\Work\PHPsurveyor GUI Icons\New Folder"
+   sodipodi:docname="Activate_this_Survey.svg">
+  <metadata
+     id="metadata3673">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3671">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4577">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4579" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4581" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4562">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4564" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4566" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4562"
+       id="linearGradient4568"
+       x1="333.79138"
+       y1="231.80777"
+       x2="311.17087"
+       y2="234.42584"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-18.15564,1.616598)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4577"
+       id="linearGradient4583"
+       x1="290.46597"
+       y1="192.26193"
+       x2="278.52802"
+       y2="205.44344"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(15.40855,0,0,15.40855,-3943.445,-2578.006)" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="721"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.35539095"
+     inkscape:cx="798.63523"
+     inkscape:cy="620.08594"
+     inkscape:window-x="1020"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg3668" />
+  <path
+     style="fill:#23961f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 271.99784,454.53364 L 342.89381,454.53364 L 501.93086,554.17149 C 501.93086,554.17149 567.80426,587.53023 503.84691,636.56425 C 446.36377,680.6347 352.47439,740.03405 352.47439,740.03405 L 277.74615,740.03405 L 271.99784,454.53364 z "
+     id="path3677"
+     sodipodi:nodetypes="cccsccc" />
+  <path
+     style="fill:url(#linearGradient4583);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 272.23883,453.62685 L 273.20186,489.74064 C 278.11966,489.26744 283.10694,489.25912 288.1289,489.25912 C 377.12776,489.25912 450.94612,564.8564 464.84571,664.04986 C 478.71865,654.27006 492.42316,644.76899 504.33012,635.64035 C 566.28883,588.13872 506.20735,555.30386 502.40405,553.30091 L 343.50337,453.62685 L 272.23883,453.62685 z "
+     id="path4570" />
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:15.40855026px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 278.14832,457.4078 L 349.04429,457.4078 L 508.08133,557.04565 C 508.08133,557.04565 573.95474,590.40439 509.99739,639.4384 C 452.51425,683.50886 358.62486,742.90821 358.62486,742.90821 L 283.89663,742.90821 L 278.14832,457.4078 z "
+     id="path4585"
+     sodipodi:nodetypes="cccsccc" />
+</svg>
