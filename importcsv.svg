@@ -15,7 +15,10 @@
    sodipodi:version="0.32"
    inkscape:version="0.44"
    sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
-   sodipodi:docname="importcsv.svg">
+   sodipodi:docname="importcsv.svg"
+   inkscape:export-filename="D:\Quelltexte\Projekte\phpsurveyor\source\original art\importcsv.png"
+   inkscape:export-xdpi="15.65"
+   inkscape:export-ydpi="15.65">
   <defs
      id="defs4">
     <linearGradient
@@ -310,9 +313,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6092834"
-     inkscape:cx="386.13163"
-     inkscape:cy="555.60052"
+     inkscape:zoom="0.21541421"
+     inkscape:cx="753.75383"
+     inkscape:cy="496.70389"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1280"
@@ -359,7 +362,7 @@
        sodipodi:rx="17.051903"
        sodipodi:ry="13.518626"
        d="M 342.57427 349.70087 A 17.051903 13.518626 0 1 1  308.47047,349.70087 A 17.051903 13.518626 0 1 1  342.57427 349.70087 z"
-       transform="matrix(1.778268,-0.19645,0.224823,0.644639,-309.3546,209.2072)" />
+       transform="matrix(3.461228,-0.103636,0.401604,0.864596,-891.1147,103.3063)" />
     <path
        style="fill:url(#linearGradient15670);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        d="M 313.07269,392.5707 C 334.12688,402.10908 348.71459,401.65099 375.85135,402.41833 L 378.18456,556.25597 C 331.54437,551.24557 316.85943,538.0863 312.66237,537.82331 L 313.07269,392.5707 z "
