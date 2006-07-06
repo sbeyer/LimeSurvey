@@ -7,18 +7,19 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3668"
    sodipodi:version="0.32"
-   inkscape:version="0.43"
-   width="210mm"
-   height="297mm"
-   sodipodi:docbase="D:\down\PHPS Icons"
+   inkscape:version="0.44"
+   width="400"
+   height="400"
+   sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
    sodipodi:docname="inactive.svg"
-   inkscape:export-filename="D:\down\PHPS Icons\inactive.png"
+   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\inactive.png"
    inkscape:export-xdpi="9.987937"
-   inkscape:export-ydpi="9.987937">
+   inkscape:export-ydpi="9.987937"
+   version="1.0">
   <metadata
      id="metadata3673">
     <rdf:RDF>
@@ -67,14 +68,14 @@
        gradientTransform="matrix(15.40855,0,0,15.40855,-3943.445,-2578.006)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4577"
+       xlink:href="#linearGradient4562"
        id="linearGradient7221"
-       x1="791.74731"
-       y1="-218.01825"
-       x2="619.70972"
-       y2="-139.23178"
+       x1="703.59442"
+       y1="-164.6588"
+       x2="650.85956"
+       y2="-111.09371"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-230.7318,289.8217)" />
+       gradientTransform="matrix(0,-1.048027,1.377707,0,309.5808,834.5665)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-height="721"
@@ -89,26 +90,28 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="0.35539095"
      inkscape:cx="798.63523"
-     inkscape:cy="620.08594"
+     inkscape:cy="5.1926281"
      inkscape:window-x="126"
      inkscape:window-y="79"
-     inkscape:current-layer="svg3668" />
+     inkscape:current-layer="svg3668"
+     width="400px"
+     height="400px" />
   <rect
-     style="opacity:1;fill:#d70000;fill-opacity:1;stroke:none;stroke-width:15.409;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#d70000;fill-opacity:1;stroke:none;stroke-width:15.4090004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4587"
-     width="272.93884"
-     height="272.93884"
-     x="239.17322"
-     y="101.2969" />
+     width="286.0473"
+     height="286.0473"
+     x="56.823879"
+     y="59.50256" />
   <path
      style="opacity:1;fill:url(#linearGradient7221);fill-opacity:1;stroke:none;stroke-width:15.4090004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 335.17443,102.69667 C 417.06192,124.82151 481.3872,182.26224 505.08068,254.75917 L 505.08068,102.69667 L 335.17443,102.69667 z "
+     d="M 51.777403,241.48132 C 82.258958,155.66101 161.39547,88.246372 261.27503,63.414962 L 51.777403,63.414962 L 51.777403,241.48132 z "
      id="rect6337" />
   <rect
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.4090004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:20.96054268;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect5462"
-     width="272.93884"
-     height="272.93884"
-     x="237.76639"
-     y="102.70381" />
+     width="286.0473"
+     height="286.0473"
+     x="55.349483"
+     y="60.977043" />
 </svg>

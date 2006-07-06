@@ -7,16 +7,19 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3668"
    sodipodi:version="0.32"
-   inkscape:version="0.43"
-   width="121.28001pt"
-   height="131.89pt"
-   sodipodi:docbase="D:\down\PHPS Icons"
+   inkscape:version="0.44"
+   width="400"
+   height="400"
+   sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
    sodipodi:docname="activate.svg"
-   version="1.0">
+   version="1.0"
+   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\activate.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9">
   <metadata
      id="metadata3673">
     <rdf:RDF>
@@ -67,12 +70,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4577"
        id="linearGradient4583"
-       x1="290.46597"
-       y1="192.26193"
-       x2="278.52802"
+       x1="274.40091"
+       y1="195.20299"
+       x2="285.13956"
        y2="205.44344"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(8.132232,0,0,8.132232,-2220.329,-1594.231)" />
+       gradientTransform="matrix(8.132232,0,0,8.132232,-2214.702,-1544.99)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-height="980"
@@ -91,19 +94,22 @@
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:current-layer="svg3668"
-     showborder="true" />
+     showborder="true"
+     width="400px"
+     height="400px" />
   <path
      style="fill:#23961f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 4.4720251,6.2650086 L 41.889075,6.2650086 L 125.82469,58.851279 C 125.82469,58.851279 160.59096,76.457159 126.83593,102.33604 C 96.497825,125.59528 46.945455,156.94471 46.945455,156.94471 L 7.5058351,156.94471 L 4.4720251,6.2650086 z "
+     d="M 10.099631,55.506555 L 47.516681,55.506555 L 131.45229,108.09282 C 131.45229,108.09282 166.21856,125.6987 132.46353,151.57758 C 102.12543,174.83682 52.573061,206.18625 52.573061,206.18625 L 13.133441,206.18625 L 10.099631,55.506555 z "
      id="path3677"
      sodipodi:nodetypes="cccsccc" />
   <path
      style="fill:url(#linearGradient4583);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 4.5992151,5.7864286 L 5.1074751,24.846349 C 7.7029651,24.596609 10.335115,24.592219 12.985575,24.592219 C 59.956865,24.592219 98.916275,64.490499 106.25211,116.84223 C 113.57389,111.6807 120.80677,106.66629 127.09095,101.84843 C 159.79115,76.778299 128.08171,59.448919 126.07443,58.391809 L 42.210785,5.7864286 L 4.5992151,5.7864286 z "
-     id="path4570" />
+     d="M 10.226821,55.027975 C 19.20685,221.98338 -3.1737983,81.173405 12.985576,134.33052 C 20.403796,207.99938 112.05889,113.24872 103.564,92.15744 L 47.838391,55.027975 L 10.226821,55.027975 z "
+     id="path4570"
+     sodipodi:nodetypes="csccc" />
   <path
-     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:8.13223267px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 7.7180851,7.7819186 L 45.135135,7.7819186 L 129.07075,60.368189 C 129.07075,60.368189 163.83702,77.974059 130.08199,103.85294 C 99.743895,127.11218 50.191515,158.46161 50.191515,158.46161 L 10.751895,158.46161 L 7.7180851,7.7819186 z "
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:18;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 13.345691,57.023465 L 50.762741,57.023465 L 134.69835,109.60973 C 134.69835,109.60973 169.46462,127.2156 135.70959,153.09448 C 105.3715,176.35372 55.819121,207.70315 55.819121,207.70315 L 16.379501,207.70315 L 13.345691,57.023465 z "
      id="path4585"
      sodipodi:nodetypes="cccsccc" />
 </svg>
