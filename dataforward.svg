@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="400"
+   id="Layer_1"
+   inkscape:version="0.44"
+   sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
+   sodipodi:docname="dataforward.svg"
+   sodipodi:version="0.32"
+   space="preserve"
+   style="overflow:visible;enable-background:new 0 0 136.743 136.704;"
+   version="1.0"
+   viewBox="0 0 136.743 136.704"
+   width="400"
+   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\dataforward.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9">
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Pulsante 02</dc:title>
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>button</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Architetto Francesco Rollandin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Architetto Francesco Rollandin</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23">
+    <radialGradient
+       r="63.549801"
+       id="XMLID_2_"
+       gradientUnits="userSpaceOnUse"
+       cy="68.329102"
+       cx="68.3564"
+       gradientTransform="matrix(0.808181,0,0,0.808181,13.11487,13.11093)">
+      <stop
+         style="stop-color:#D4E4F7"
+         offset="0"
+         id="stop8" />
+      <stop
+         style="stop-color:#7FB5F7"
+         offset="1"
+         id="stop10" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="Layer_1"
+     inkscape:cx="200"
+     inkscape:cy="179.82182"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="573"
+     inkscape:window-width="925"
+     inkscape:window-x="319"
+     inkscape:window-y="62"
+     inkscape:zoom="0.9425"
+     pagecolor="#ffffff"
+     width="400px"
+     height="400px" />
+  <path
+     style="fill:#5471af;stroke:black;stroke-width:11.2812975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5"
+     d="M 123.62803,68.333966 C 123.62803,96.486967 101.54366,120.78655 73.484404,123.36627 C 45.415455,125.94598 19.149558,106.20939 14.015182,78.449973 C 8.880805,50.69783 26.202558,22.741219 53.401904,15.112794 C 80.609332,7.4843693 110.00936,22.298335 120.04292,48.708896 C 122.41979,54.96422 123.62803,61.642224 123.62803,68.333966"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path5.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
+  <path
+     style="fill:url(#XMLID_2_)"
+     id="path12"
+     d="M 119.71885,68.333966 C 119.71885,96.322097 96.348666,119.69309 68.359726,119.69309 C 40.369978,119.69309 16.999796,96.322097 16.999796,68.333966 C 16.999796,40.344219 40.369978,16.974035 68.359726,16.974035 C 96.348666,16.974035 119.71885,40.34341 119.71885,68.333966" />
+  <path
+     style="fill:#68a0f2"
+     id="path14"
+     d="M 114.7655,48.36946 C 118.91632,72.555905 104.46927,96.853881 81.238906,104.76921 C 56.600686,113.1646 28.875214,100.75578 18.571709,76.890991 C 23.522628,105.77216 53.220063,124.75877 81.514495,117.12388 C 110.73025,109.23845 126.80741,76.227474 114.7655,48.36946" />
+  <path
+     style="fill:#b3e7fc"
+     id="path16"
+     d="M 100.43807,45.533551 C 93.334957,47.003634 85.156969,36.940966 78.998627,34.381455 C 67.492548,29.59783 53.119849,31.818712 42.695924,38.332655 C 31.669905,45.220785 23.827312,58.453139 22.621506,71.442232 C 22.617465,71.479408 22.617465,71.48749 22.61989,71.462436 C 23.434536,63.596406 22.884973,56.202354 25.880093,48.598983 C 30.843135,35.995394 41.577402,26.127499 54.518002,22.163369 C 67.898255,18.064272 82.530379,20.672274 94.056663,28.483348 C 97.615895,30.896577 111.3178,43.281958 100.43807,45.533551" />
+  <path
+     style="fill:white"
+     id="path18"
+     d="M 55.670469,43.479962 C 55.670469,57.764569 55.670469,72.04756 55.670469,86.331359 C 55.670469,90.69473 53.879539,98.804025 60.261748,99.111131 C 65.631305,99.372178 71.703173,92.247246 75.487886,89.260208 C 81.758566,84.316562 88.027629,79.372108 94.298309,74.426845 C 100.34027,69.661808 95.864565,66.126014 91.392089,62.58618 C 84.656704,57.252182 77.920512,51.918184 71.185936,46.584995 C 69.016778,44.86761 66.849235,43.150224 64.680884,41.433647 C 62.501219,39.705755 55.670469,39.434206 55.670469,43.479962" />
+  <path
+     style="fill:#5471af"
+     id="path20"
+     d="M 57.28764,40.23673 C 53.105301,42.259609 54.94149,51.900405 54.94149,55.514592 C 54.94149,64.434491 54.94149,73.355197 54.94149,82.274287 C 54.94149,85.81089 53.193393,95.268228 56.071327,98.211625 C 61.590398,103.85273 70.141766,94.405091 74.153579,91.241868 C 80.678835,86.094561 87.204093,80.94887 93.730965,75.802371 C 95.34652,74.527869 97.585989,73.188711 98.268098,71.141588 C 99.406822,67.723789 96.541013,65.731622 94.267599,63.930185 C 87.857103,58.855614 81.449033,53.778618 75.036921,48.704047 C 70.524844,45.130269 63.778146,37.09937 57.28764,40.23673 M 58.065111,97.856832 C 54.685296,96.225923 56.399449,86.143052 56.399449,83.334622 C 56.399449,74.414723 56.399449,65.494017 56.399449,56.573309 C 56.399449,53.766495 54.716816,44.626772 56.900521,42.270115 C 61.579892,37.21898 69.989828,46.56479 73.247608,49.145314 C 79.578093,54.159272 85.91181,59.171613 92.242295,64.185571 C 93.596,65.257219 95.811225,66.517174 96.659815,68.114949 C 98.248697,71.115727 94.770287,73.126482 92.827419,74.659602 C 86.59634,79.572537 80.364453,84.48628 74.133374,89.400831 C 70.501407,92.265027 63.437092,100.45676 58.065111,97.856832" />
+</svg>

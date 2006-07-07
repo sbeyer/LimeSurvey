@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="400"
+   id="Layer_1"
+   inkscape:version="0.44"
+   sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
+   sodipodi:docname="downarrow.svg"
+   sodipodi:version="0.32"
+   space="preserve"
+   style="overflow:visible;enable-background:new 0 0 136.301 133.554;"
+   version="1.0"
+   viewBox="0 0 136.301 133.554"
+   width="400"
+   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\downarrow.png"
+   inkscape:export-xdpi="1.92"
+   inkscape:export-ydpi="1.92">
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Tasto 3</dc:title>
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>unsorted</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Architetto Francesco Rollandin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Architetto Francesco Rollandin</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs19">
+    <radialGradient
+       r="107.2917"
+       id="XMLID_2_"
+       gradientUnits="userSpaceOnUse"
+       cy="16.075199"
+       cx="46.063999"
+       gradientTransform="matrix(0.774534,0,0,1,-2.210819e-5,0)">
+      <stop
+         style="stop-color:#D1F593"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#81CE09"
+         offset="1"
+         id="stop8" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="Layer_1"
+     inkscape:cx="200"
+     inkscape:cy="209.55997"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="968"
+     inkscape:window-width="1280"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:zoom="0.9425"
+     pagecolor="#ffffff"
+     width="400px"
+     height="400px" />
+  <path
+     style="fill:url(#XMLID_2_)"
+     id="path10"
+     d="M 5.9863512,57.055 C 12.712404,57.055 19.440007,57.055 26.166835,57.055 C 26.845326,57.055 26.487492,35.644 26.487492,33.647 C 26.489041,26.329 24.477576,12.245 28.512898,6.065 C 32.727912,-0.391 43.332832,2.112 49.054314,2.112 C 56.293884,2.112 63.535002,2.112 70.77612,2.112 C 80.498846,2.112 79.570179,15.056 79.570179,23.709 C 79.570179,34.301 79.570179,44.894 79.570179,55.485 C 79.570179,58.211 81.404276,57.055 83.327444,57.055 C 87.716728,57.055 92.103689,57.055 96.491424,57.055 C 103.78831,57.055 107.19471,66.772 101.88141,73.654 C 97.29539,79.595 92.707825,85.537 88.121035,91.478 C 78.356485,104.125 69.032644,118.499 58.414558,129.954 C 52.13696,138.037 46.159106,129.846 41.736517,124.141 C 35.712966,116.37 29.687092,108.598 23.663541,100.826 C 17.742228,93.19 11.822465,85.552 5.901927,77.916 C 2.0633365,72.962 -2.8410128,66.688 2.0509439,59.41 C 3.0508673,57.923 4.4550975,57.055 5.9863512,57.055"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\downarrow.png"
+     inkscape:export-xdpi="2.8199999"
+     inkscape:export-ydpi="2.8199999" />
+  <path
+     style="fill:#67ba06"
+     id="path12"
+     d="M 93.375473,75.788 C 89.497382,80.81 53.187228,128.07 53.00831,127.84 C 45.451182,118.128 37.893279,108.416 30.336151,98.704 C 25.833785,92.919 21.330644,87.134 16.829053,81.349 C 14.059319,77.788 8.7150345,72.686 10.706361,66.86 C 7.4386024,66.86 4.171618,66.86 0.90385907,66.86 C 1.4398366,72.253 6.1482288,76.514 8.9241586,80.083 C 14.685917,87.49 20.447675,94.898 26.209434,102.306 C 31.704753,109.373 37.20162,116.439 42.699263,123.504 C 45.685866,127.347 48.704225,132.539 53.188777,132.504 C 57.493637,132.57 60.288155,127.85 63.142313,124.154 C 68.494343,117.222 73.845599,110.292 79.197628,103.357 C 84.988819,95.857 90.78001,88.357 96.57275,80.854 C 99.440849,77.136 104.58375,72.471 105.14839,66.86 C 101.85894,66.86 98.571822,66.86 95.282376,66.86 C 96.26526,69.901 95.061634,73.594 93.375473,75.788"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\downarrow.png"
+     inkscape:export-xdpi="2.8199999"
+     inkscape:export-ydpi="2.8199999" />
+  <path
+     style="fill:#b2ed21"
+     id="path14"
+     d="M 98.590411,56.413 C 92.618754,56.413 86.646322,56.413 80.675439,56.413 C 79.902454,56.413 80.315281,39.194 80.315281,37.475 C 80.315281,29.265 80.315281,21.054 80.315281,12.841 C 80.315281,1.952 72.572265,1.47 66.362826,1.47 C 58.501305,1.47 50.638236,1.47 42.775942,1.47 C 36.77098,1.47 28.605068,0.342 27.166758,10.582 C 26.166835,17.691 27.029665,25.827 27.029665,33.003 C 27.03044,40.807 27.031989,48.609 27.031989,56.413 C 20.536747,56.413 14.042279,56.413 7.5478117,56.413 C 5.1459818,56.413 2.9308145,57.725 1.7488757,60.512 C 1.2392323,61.715 -0.18513573,66.86 1.5273589,66.86 C 3.5093914,66.86 5.4891003,66.86 7.4695838,66.86 C 10.432176,66.86 9.8737373,66.8 11.996735,64.791 C 14.44891,62.471 19.156527,63.421 22.009911,63.421 C 25.917435,63.421 29.826508,63.421 33.733257,63.421 C 33.93696,63.421 33.832398,40.252 33.832398,38.471 C 33.832398,31.657 31.897612,17.062 35.786547,11.363 C 39.60345,5.771 52.644279,8.86 57.608268,8.86 C 64.637938,8.86 73.686819,6.887 73.686819,19.759 C 73.686819,29.443 73.686819,39.13 73.686819,48.816 C 73.686819,53.661 73.686819,58.508 73.686819,63.354 C 73.686819,63.489 86.026695,63.42 87.117239,63.42 C 89.013298,63.42 91.227691,63.117 93.012217,64.058 C 95.968613,65.621 94.996573,66.859 98.538517,66.859 C 99.573294,66.859 104.41491,67.771 105.14762,66.859 C 105.69366,61.397 103.0618,56.413 98.590411,56.413"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\downarrow.png"
+     inkscape:export-xdpi="2.8199999"
+     inkscape:export-ydpi="2.8199999" />
+  <path
+     style="fill:#739b07;stroke:black;stroke-opacity:1;stroke-width:3.407525;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path16"
+     d="M 35.840764,0.573 C 25.146773,0.573 26.537836,15.876 26.537836,25.179 C 26.537836,35.227 26.536287,45.272 26.536287,55.321 C 26.536287,55.942 8.7522121,55.193 6.7314529,55.515 C 0.48096351,55.515 -1.8449621,67.589 2.177193,72.777 C 3.3420921,74.28 4.5062167,75.783 5.6718904,77.286 C 17.599714,92.673 29.528312,108.059 41.45691,123.446 C 45.969345,129.266 51.346935,137.581 58.364987,131.333 C 62.322856,127.806 65.619273,122.217 68.983849,117.86 C 79.974486,103.623 90.966673,89.386 101.95808,75.148 C 106.76639,68.92 107.8337,55.515 98.481201,55.515 C 94.748722,55.515 91.016243,55.515 87.283763,55.515 C 85.337359,55.515 81.010038,56.994 81.010038,53.958 C 81.010038,43.901 81.010038,33.842 81.010038,23.783 C 81.010038,14.681 81.996794,0.573 71.707885,0.573 C 59.927997,-0.716 47.671771,0.573 35.840764,0.573 M 47.478912,128.675 C 37.536219,115.851 27.595075,103.026 17.652382,90.201 C 13.046229,84.26 8.4400749,78.318 3.8346957,72.377 C 1.4104043,69.248 0.90385907,64.513 2.6566295,60.571 C 4.5526887,56.306 8.6763078,57.311 11.892947,57.311 C 16.133521,57.311 20.374095,57.311 24.616217,57.311 C 27.083883,57.311 27.92735,58.321 27.92735,55.138 C 27.92735,44.385 27.928125,33.631 27.928125,22.878 C 27.928125,14.557 26.927427,2.369 36.259787,2.369 C 43.794454,2.369 51.328346,2.369 58.863013,2.369 C 64.381568,2.369 74.617809,-0.078 78.261991,6.874 C 81.642058,13.328 79.618975,27.003 79.618975,34.2 C 79.618975,35.806 79.523707,57.312 79.707272,57.312 C 86.169984,57.312 93.707748,55.795 100.05118,57.498 C 109.52141,60.042 102.41429,72.013 98.84136,76.639 C 92.946381,84.277 87.050629,91.913 81.153327,99.551 C 75.33038,107.093 69.507434,114.636 63.684487,122.179 C 59.481865,127.625 53.651948,136.622 47.478912,128.675"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\downarrow.png"
+     inkscape:export-xdpi="2.8199999"
+     inkscape:export-ydpi="2.8199999" />
+</svg>

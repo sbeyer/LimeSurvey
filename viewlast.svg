@@ -7,15 +7,19 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1340"
    sodipodi:version="0.32"
-   inkscape:version="0.42.2"
-   width="210mm"
-   height="297mm"
-   sodipodi:docbase="C:\Documents and Settings\Mitchell\My Documents\My Work\Work\PHPsurveyor GUI Icons\New Folder\Checked Off"
-   sodipodi:docname="viewlast.svg">
+   inkscape:version="0.44"
+   width="400"
+   height="400"
+   sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
+   sodipodi:docname="viewlast.svg"
+   version="1.0"
+   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\viewlast.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9">
   <metadata
      id="metadata1345">
     <rdf:RDF>
@@ -138,9 +142,9 @@
        xlink:href="#linearGradient3307"
        id="linearGradient3313"
        x1="262.13498"
-       y1="928.0085"
+       y1="928.00848"
        x2="365.60242"
-       y2="928.0085"
+       y2="928.00848"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -152,51 +156,77 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="1.0051974"
-     inkscape:cx="424.27855"
-     inkscape:cy="167.62280"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
-     inkscape:current-layer="svg1340" />
+     inkscape:zoom="1.29"
+     inkscape:cx="200"
+     inkscape:cy="119.587"
+     inkscape:window-x="412"
+     inkscape:window-y="150"
+     inkscape:current-layer="svg1340"
+     width="400px"
+     height="400px" />
   <path
-     style="fill:none;fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:15.6341238px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 343.81274,989.62582 L 117.65073,984.14402 L 112.13467,721.02041 L 277.61905,715.5386 L 349.32896,797.76474 L 343.81274,989.62582 z "
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15.6341238px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 269.42259,455.68497 L 43.260572,450.20317 L 37.744512,187.07956 L 203.2289,181.59775 L 274.93881,263.82389 L 269.42259,455.68497 z "
      id="path8703" />
   <path
-     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:16.55669403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 118.67372,924.35241 L 341.38303,925.72282 L 118.67372,924.35241 z "
-     id="path5980" />
+     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:19.53221321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 58.828819,285.79063 L 321.56277,287.40732 L 58.828819,285.79063 z "
+     id="path5980"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
   <path
-     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:16.55669403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 121.48752,861.04184 L 163.13787,860.42259 L 121.48752,861.04184 z "
+     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:19.53221321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 62.148306,211.10207 L 111.28394,210.37154 L 62.148306,211.10207 z "
      id="path5976"
-     sodipodi:nodetypes="ccc" />
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
   <path
-     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:16.55669403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 120.78407,894.10403 L 343.49338,895.47444 L 120.78407,894.10403 z "
-     id="path5978" />
+     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:19.53221321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 61.318434,250.10611 L 324.05239,251.72281 L 61.318434,250.10611 z "
+     id="path5978"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
   <path
-     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:16.55669403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 119.37717,955.30423 L 342.08648,956.67464 L 119.37717,955.30423 z "
-     id="path5982" />
+     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:19.53221321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 59.65869,322.30503 L 322.39265,323.92172 L 59.65869,322.30503 z "
+     id="path5982"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
   <path
-     style="fill:#ffb1b1;fill-opacity:1;fill-rule:evenodd;stroke:#ffb1b1;stroke-width:18.90075493px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 160.51310,982.57322 L 157.37088,856.53167 L 160.51310,982.57322 z "
+     style="fill:#ffb1b1;fill-opacity:1;fill-rule:evenodd;stroke:#ffb1b1;stroke-width:22.29754257px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 108.18745,354.47471 L 104.48052,205.78136 L 108.18745,354.47471 z "
      id="path3594"
-     sodipodi:nodetypes="ccc" />
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
   <path
-     style="fill:#b1ffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#b1ffff;stroke-width:16.556694px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
-     d="M 183.11487,861.66455 L 260.57908,861.04530 L 183.11487,861.66455 z "
+     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:19.53221321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 134.85115,211.83669 L 226.23698,211.10616 L 134.85115,211.83669 z "
      id="path7588"
-     sodipodi:nodetypes="ccc" />
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
   <path
-     style="fill:#b1ffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#b1ffff;stroke-width:16.556694px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
-     d="M 292.54611,860.66972 L 341.16027,860.05047 L 292.54611,860.66972 z "
+     style="fill:#b1ffff;fill-opacity:1;fill-rule:evenodd;stroke:#b1ffff;stroke-width:19.53221321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 263.94904,210.66308 L 321.29998,209.93255 L 263.94904,210.66308 z "
      id="path7590"
-     sodipodi:nodetypes="ccc" />
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
   <path
-     style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:15.634124px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
-     d="M 343.88137,991.43468 L 118.71418,984.95806 L 117.17744,844.19853 L 173.23058,863.58745 L 221.74907,847.58400 L 271.26238,866.39959 L 307.84291,855.37029 L 347.40793,860.25826 L 343.88137,991.43468 z "
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:18.44384003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 324.51011,364.92872 L 58.87655,357.28814 L 57.063632,181.92941 L 122.41529,211.7796 L 181.20376,185.14811 L 243.49142,222.07387 L 281.99494,197.43452 L 328.67046,210.17768 L 324.51011,364.92872 z "
      id="path7581"
-     sodipodi:nodetypes="ccccccccc" />
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\path7581.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
 </svg>

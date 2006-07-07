@@ -17,7 +17,7 @@
    sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
    sodipodi:docname="delete.svg"
    version="1.0"
-   inkscape:export-filename="D:\Quelltexte\Projekte\phpsurveyor\source\original art\delete.png"
+   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\delete.png"
    inkscape:export-xdpi="9.5600004"
    inkscape:export-ydpi="9.5600004">
   <metadata
@@ -109,7 +109,7 @@
      id="base"
      inkscape:zoom="1.0051974"
      inkscape:cx="374.61881"
-     inkscape:cy="217.24513"
+     inkscape:cy="143.39876"
      inkscape:window-x="205"
      inkscape:window-y="22"
      inkscape:current-layer="svg1340"
@@ -117,7 +117,7 @@
      height="400px" />
   <g
      id="g1896"
-     transform="matrix(1.172986,0,0,1.265706,-29.53857,-52.93144)">
+     transform="matrix(1.046474,0,0,1.129193,-18.25662,-29.24677)">
     <path
        id="path3588"
        d="M 98.827842,154.04324 L 321.53715,155.41364 L 98.827842,154.04324 z "

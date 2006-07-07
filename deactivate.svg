@@ -7,15 +7,19 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3668"
    sodipodi:version="0.32"
-   inkscape:version="0.43"
-   width="210mm"
-   height="297mm"
-   sodipodi:docbase="C:\Documents and Settings\Owner\Desktop\Work\PHPsurveyor GUI Icons\New Folder"
-   sodipodi:docname="De-Activate_this_Survey.svg">
+   inkscape:version="0.44"
+   width="130"
+   height="400"
+   sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
+   sodipodi:docname="deactivate.svg"
+   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\deactivate.png"
+   inkscape:export-xdpi="9.987937"
+   inkscape:export-ydpi="9.987937"
+   version="1.0">
   <metadata
      id="metadata3673">
     <rdf:RDF>
@@ -64,14 +68,14 @@
        gradientTransform="matrix(15.40855,0,0,15.40855,-3943.445,-2578.006)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4577"
+       xlink:href="#linearGradient4562"
        id="linearGradient7221"
-       x1="791.74731"
-       y1="-218.01825"
-       x2="619.70972"
-       y2="-139.23178"
+       x1="703.59442"
+       y1="-164.6588"
+       x2="650.85956"
+       y2="-111.09371"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-230.7318,289.8217)" />
+       gradientTransform="matrix(0,-0.407073,0.535126,0,108.5274,340.6185)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-height="721"
@@ -84,28 +88,33 @@
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.35539095"
-     inkscape:cx="798.63523"
-     inkscape:cy="620.08594"
-     inkscape:window-x="1020"
-     inkscape:window-y="-4"
-     inkscape:current-layer="svg3668" />
+     inkscape:zoom="1.3125"
+     inkscape:cx="60"
+     inkscape:cy="200"
+     inkscape:window-x="411"
+     inkscape:window-y="207"
+     inkscape:current-layer="svg3668"
+     width="130px"
+     height="400px" />
   <rect
-     style="opacity:1;fill:#23961f;fill-opacity:1;stroke:none;stroke-width:15.409;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#d70000;fill-opacity:1;stroke:none;stroke-width:15.4090004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4587"
-     width="272.93884"
-     height="272.93884"
-     x="239.17322"
-     y="101.2969" />
+     width="111.10589"
+     height="111.10589"
+     x="10.352019"
+     y="39.569859" />
   <path
      style="opacity:1;fill:url(#linearGradient7221);fill-opacity:1;stroke:none;stroke-width:15.4090004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 335.17443,102.69667 C 417.06192,124.82151 481.3872,182.26224 505.08068,254.75917 L 505.08068,102.69667 L 335.17443,102.69667 z "
+     d="M 8.3918765,110.25365 C 20.231457,76.919519 50.969492,50.73447 89.764495,41.089506 L 8.3918765,41.089506 L 8.3918765,110.25365 z "
      id="rect6337" />
   <rect
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.4090004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:17.60536957;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect5462"
-     width="272.93884"
-     height="272.93884"
-     x="237.76639"
-     y="102.70381" />
+     width="111.10589"
+     height="111.10589"
+     x="9.779335"
+     y="40.142574"
+     inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\rect5462.png"
+     inkscape:export-xdpi="9"
+     inkscape:export-ydpi="9" />
 </svg>
