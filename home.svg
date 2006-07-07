@@ -192,7 +192,8 @@
     <path
        style="fill:black;fill-opacity:0.22660098;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path20"
-       d="M 77.34416,316.7341 C 83.18764,339.5525 51.58713,395.6541 62.55203,405.605 C 188.0544,381.8144 226.1928,366.2024 295.2412,410.8831 C 303.1956,400.0548 372.1848,319.2532 355.8381,311.4561 C 308.1395,292.2186 177.9616,302.463 77.34416,316.7341 z " />
+       d="M 74.588578,331.8898 C 80.432058,354.7082 120.47667,388.76515 131.44157,398.71605 C 256.94394,374.92545 312.99363,356.55786 382.04203,401.23856 C 389.99643,390.41026 368.05143,347.49791 351.70473,339.70081 C 319.85072,336.30791 91.303779,322.76594 74.588578,331.8898 z "
+       sodipodi:nodetypes="ccccc" />
     <path
        style="font-size:12px;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:25.5;stroke-miterlimit:4;stroke-dasharray:none"
        id="path77"
@@ -277,9 +278,9 @@
        d="M 191.884,338.491 C 191.884,332.72 189.8867,229.7074 188.1968,213.404 C 197.2761,213.404 227.7046,212.8835 243.5726,215.5739 C 246.2308,233.5768 238.8924,303.7092 236.9782,342.3731 C 229.9042,342.3731 194.3892,342.8034 191.884,338.491 z " />
     <path
        style="fill:white;fill-opacity:0.66346196;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="ccccc"
+       sodipodi:nodetypes="cccc"
        id="path78"
-       d="M 54.93017,21.75414 C 125.8676,37.6161 304.549,35.31744 367.8259,20.69381 C 355.8123,54.28248 357.3314,71.41073 365.063,114.5007 C 188.3125,56.00219 161.3167,81.15389 62.55083,108.7096 C 70.78705,67.57468 59.71527,55.37297 54.93017,21.75414 z " />
+       d="M 54.93017,21.75414 C 125.8676,37.6161 228.7705,40.139708 292.7363,30.338346 C 240.92196,127.90969 85.357084,127.73488 49.461817,177.59914 C 57.698037,136.46422 59.71527,55.37297 54.93017,21.75414 z " />
     <path
        style="fill:#000059;fill-opacity:0.334975;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccccc"
