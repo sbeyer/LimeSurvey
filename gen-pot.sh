@@ -1,6 +1,6 @@
 #!/bin/bash
 #This file generates the .pot file template, to be used for new translations, and merging with existing .po files
-#Change potfiles.txt location
+#Change (in) potfiles.txt and (out) phpsurveyor.pot location
 echo Generating POT File;
 xgettext --language=php --keyword=gT --from-code=UTF-8 --files-from=potfiles.txt --output=phpsurveyor.pot
 echo updating CHARSET to UTF-8;
@@ -22,3 +22,4 @@ cat phpsurveyor.bak | sed "s/This file is distributed under the same license as 
 cp phpsurveyor.pot phpsurveyor.bak;
 cat phpsurveyor.bak | sed "s/FIRST AUTHOR <EMAIL@ADDRESS>, YEAR/FIRST AUTHOR c_schmitz@users.sourceforge.net, 2007/" > phpsurveyor.pot
 echo DONE
+rm -f phpsurveyor.bak;
