@@ -35,13 +35,13 @@ This list will be used by xgettext for generating a template pot file.
 Change paths accordingly.
 */
 
-$file = fopen("/var/www/localhost/htdocs/phpsurveyor/potfiles.txt", "w+") or die("Can't open potfiles.txt");
+$file = fopen("/srv/www/virtual/phpsurveyor.org/_demo-unstable/scripts/potfiles.txt", "w+") or die("Can't open potfiles.txt");
 
 #Paths that will be excluded from the list
 #No leading slashes
 $excluded = array(0 => "classes/adodb", 1 => "classes/phpmailer", 2 => "classes/pear", 3 => "classes/php-gettext");
 
-map_dirs("/var/www/localhost/htdocs/phpsurveyor",0);
+map_dirs("/srv/www/virtual/phpsurveyor.org/_demo-unstable/phpsurveyor",0);
 
 fclose($file);
 
