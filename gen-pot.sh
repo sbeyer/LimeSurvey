@@ -7,10 +7,15 @@
 # 5. Generate new .mo files, Copy to translations folder
 # 6. Generate translation statistics to translations folder
 
+echo "Script Run Time:"
+date
+
 #Check Out PHPSurveyor
+echo "Checking out local Copy"
 svn co https://phpsurveyor.svn.sourceforge.net/svnroot/phpsurveyor/source/phpsurveyor/ /srv/www/virtual/phpsurveyor.org/_demo-unstable/phpsurveyor/
 
 #Run  gen-pot-src.php (CHMOD 700)
+echo "Generating php file list"
 php5 /srv/www/virtual/phpsurveyor.org/_demo-unstable/scripts/gen-pot-src.php
 
 #Generate Pot file, and do header replacement
