@@ -29,7 +29,7 @@
 #############################################################
 */
 
-/* gen-pot-src.php
+/* gen-new-po.php
 Description: This file merges existing .po files in the checked out sources with the phpsurveyor.pot file, and generates new .po files in a temporary location for generating statistics.
 */
 
