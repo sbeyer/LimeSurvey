@@ -1,6 +1,11 @@
 #!/bin/bash
-#This file generates the .pot file template, to be used for new translations, and merging with existing .po files
-#Change (in) potfiles.txt and (out) phpsurveyor.pot location
+#This is the main script which produces files needed for the translations web page.
+# 1. Check out SVN Copy of PHPSurveyor
+# 2. Generate a list of .php files
+# 3. Create a .pot file
+# 4. Generate new .po files, Copy to translations folder
+# 5. Generate new .mo files, Copy to translations folder
+# 6. Generate translation statistics to translations folder
 
 #Check Out PHPSurveyor
 svn co https://phpsurveyor.svn.sourceforge.net/svnroot/phpsurveyor/source/phpsurveyor/ /srv/www/virtual/phpsurveyor.org/_demo-unstable/phpsurveyor/
@@ -59,8 +64,10 @@ php5 /srv/www/virtual/phpsurveyor.org/_demo-unstable/scripts/gen-new-po.php
 
     cp $i $WWWLOCALES/$PO
     chmod 775 $WWWLOCALES/$PO
-    #cp $FILE.mo $WWWLOCALES/
-    #chmod 775 $WWWLOCALES/$FILE.mo
+
+    echo "Compiling $FILE.mo"
+    msgfmt $i -o $WWWLOCALES/$FILE.mo
+    chmod 775 $WWWLOCALES/$FILE.mo
     
     cp $i $i~
 
@@ -95,6 +102,7 @@ EOF
       LANGNAME=
     fi
 
+    # NO COUNTRY CODES USED AT THE MOMENT
     #COUNTRYNAME=
     #if [ ! -z "$COUNTRY" ]; then
     #  COUNTRYNAME=`cat "$DATADIR/countrycodes" 2>/dev/null | grep "^$COUNTRY "`
@@ -116,5 +124,6 @@ EOF
     
   done
 
+  chown vu2002:vu2002 -R $WWWLOCALES
   chmod 775 $WWWLOCALES/stats~
   mv $WWWLOCALES/stats~ $WWWLOCALES/stats

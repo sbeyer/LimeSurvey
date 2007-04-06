@@ -124,7 +124,7 @@ sc Sardinian
 sd Sindhi
 xse Northern Sami #conflicted
 sg Sango; Sangro
-si Sinhalese
+xsi Sinhalese #conflicted
 sk Slovak
 sl Slovenian
 sm Samoan
@@ -174,5 +174,6 @@ jp Japanese
 pt_br Portuguese (Brazilian)
 se Swedish
 vn Vietnamese
+si Slovenian
 //END
 
