@@ -46,7 +46,7 @@ gn Guarani
 gu Gujarati
 gv Manx
 ha Hausa (?)
-he Hebrew (formerly iw)
+he Hebrew
 hi Hindi
 ho Hiri Motu
 hr Croatian
@@ -166,14 +166,6 @@ za Zhuang
 zh Chinese
 zu Zulu
 //PHPSurveyor Specific language Codes
-cnt Chinese (Traditional)
-cns Chinese (Simplified)
-de_informal German Informal
-gr Greek
-jp Japanese
-pt_br Portuguese (Brazilian)
-se Swedish
-vn Vietnamese
-si Slovenian
+de-informal German Informal
 //END
 
