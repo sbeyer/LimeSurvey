@@ -1,22 +1,35 @@
+/// Build with: 
+///     ./build.sh profile=ls20 action=release internStrings=true optimize=shrinksafe
+/// 
+/// Questions? mmacasek@mitre.org
+///
+
 dependencies ={
     layers:  [
         {
-
-// according to http://dojotoolkit.org/forum/dojo-core-dojo-0-9/dojo-core-support/custom-build-issues-dojo-not-defined
-// There is no option to build Dojo Base into another layer -- providing the extra configuration to do so would start to get confusing. Instead, do the build calling your layer "dojo.js" then rename the file after the build is done.
-//        name: "ls20.js",
-        name: "dojo.js",
-        dependencies: [
+          name: "dojo.js",
+          dependencies: [
             "dojo.data.ItemFileReadStore",
             "dojo.fx",
             "dojo.parser",
             "dojo.Tooltip",
+            "dojo.dnd",
+            "dojo.dnd.Mover",
+            "dojo.dnd.Movable",
+            "dojo.nls",
 
             "dojox.fx.easing",
             "dojox.grid",
-
+            "dojox.grid.Grid",
+            "dojox.grid.VirtualGrid",
+            "dojox.dtl",
+            "dojox.dtl.Context",
+            "dojox.dtl._HtmlTemplated",
+            "dojox.string",
+            "dojox.jsonPath",
+            "dojox.data.jsonPathStore",
+            
             "dijit.InlineEditBox",
-
             "dijit.form.Button",
             "dijit.form.CheckBox",
             "dijit.form.ComboBox",
@@ -30,30 +43,28 @@ dependencies ={
             "dijit.form.TextBox",
             "dijit.form.TimeTextBox",
             "dijit.form.ValidationTextBox",
-
             "dijit.layout.BorderContainer",
             "dijit.layout.ContentPane",
-            "dijit.Tooltip"
-
-
-
-
-/*
-            "ls2.widget"
-            "ls.widget.LoopInput"
-            "ls.widget.QuestionChooser"
-            "ls.widget.RadioSetEditor"
-*/
-        ]
+            "dijit.Tooltip",
+            "dijit.Editor",
+            "dijit.Form",
+            "dijit.form.MultiSelect",
+            "dijit.Slider",
+            
+            "ls.widget.LoopInput",
+            "ls.widget.QuestionChooser",
+            "ls.widget.RadioSetEditor",
+            "ls.widget.DateEditor",
+            "ls.widget.InputEditor",
+            /*"ls.widget.QuestionEditor",*/
+            "ls.widget.TextBoxEditor"
+          ]
         }
     ],
     prefixes: [
-/*        [ "dojo", "../dojo"   ], */
         [ "dijit", "../dijit" ],
-        [ "dojox", "../dojox" ]
-/*
-        [ "ls2", "../../ls" ]
-*/
+        [ "dojox", "../dojox" ],
+        [ "ls", "../ls" ]
     ]
 };
 
