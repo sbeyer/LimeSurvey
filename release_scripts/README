@@ -1,0 +1,46 @@
+This directory contains a quick and dirty set of scripts that
+can be used too automate LS release process.
+
+* Changelog.sh: parses the "svn log" output and generates a changelog like file
+  * ParseSVNLogs.php: an helper script used by Changelog.sh. Don't need to run it
+* PackageLS.sh:
+  * export the svn tree, 
+  * updates common.php, 
+  * packages archives files,
+  * optionally upload to Sf.net
+
+Sample Session:
+1- I run Changelog.sh
+	Updating SVN local repository
+	Current Repository build is 5948,
+	  Let's assume you're preparing the build 5949 release
+	Please enter the last release buildnumber: 5884
+	Getting SVN log in XML format from 5884 to 5949
+	Parsing SVN log in XML format ==> Changelog-LS-5884-5949.txt
+	Now you have to:
+	 * review the generated changelog in /var/www/html/limesurvey-devel/Changelog-LS-5884-5949.txt
+	 * then add it to the relevant section in the release-notes
+	 * commit the new release notes
+	 * and run the PackageLS.sh script to build and upload the packages to Sf.net
+
+2- I manualy add the generated changelog to source/limesurvey/docs/release_notes_and_upgrade_instructions.txt and I svn commit to the SVN server
+
+3- I run ./PackageLS.sh
+Updating the repository first
+
+Version to build will have builnumber 5948
+Version Name [hit enter for '178RCx']:
+I'm about to delete /tmp/limesurvey* files and directories, is this OK ['Y']:
+Exporting sources to /tmp : OK
+Updating buildnumber in common.php : OK
+Preparing packages:
+ * limesurvey178RCx-build5948-20081107.7z : OK
+ * limesurvey178RCx-build5948-20081107.zip : OK
+ * limesurvey178RCx-build5948-20081107.tar.gz : OK
+ * limesurvey178RCx-build5948-20081107.tar.bz2 : OK
+
+Do you want to upload to Sf.net [N]:Y
+Please enter your Sf.net login:mysflogin
+mysflogin@frs.sourceforge.net's password:xxxxx
+
+...
