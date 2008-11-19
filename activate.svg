@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -11,15 +11,16 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3668"
    sodipodi:version="0.32"
-   inkscape:version="0.44"
+   inkscape:version="0.46"
    width="130"
    height="400"
    sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
    sodipodi:docname="activate.svg"
    version="1.0"
-   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\activate.png"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey\images\activate.png"
    inkscape:export-xdpi="9"
-   inkscape:export-ydpi="9">
+   inkscape:export-ydpi="9"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata3673">
     <rdf:RDF>
@@ -33,6 +34,13 @@
   </metadata>
   <defs
      id="defs3671">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="130 : 200 : 1"
+       inkscape:persp3d-origin="65 : 133.33333 : 1"
+       id="perspective17" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4577">
@@ -88,15 +96,16 @@
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.7107819"
-     inkscape:cx="315.98328"
-     inkscape:cy="-50.598678"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:zoom="5.0077816"
+     inkscape:cx="71.506895"
+     inkscape:cy="287.96093"
+     inkscape:window-x="0"
+     inkscape:window-y="10"
      inkscape:current-layer="svg3668"
      showborder="true"
      width="130px"
-     height="400px" />
+     height="400px"
+     showgrid="false" />
   <path
      style="fill:#23961f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 5.1877886,54.32069 L 36.675258,54.32069 L 107.30936,98.573467 C 107.30936,98.573467 136.56613,113.3893 108.16035,135.16708 C 82.630011,154.74037 40.930339,181.12177 40.930339,181.12177 L 7.740823,181.12177 L 5.1877886,54.32069 z "
@@ -109,7 +118,7 @@
      sodipodi:nodetypes="csccc" />
   <path
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:15.14749146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7.919437,55.597211 L 39.406906,55.597211 L 110.04101,99.849988 C 110.04101,99.849988 139.29778,114.66581 110.892,136.44359 C 85.361667,156.01688 43.661988,182.39828 43.661988,182.39828 L 10.472471,182.39828 L 7.919437,55.597211 z "
+     d="M 8.472471,55.597211 L 39.406906,55.597211 L 110.04101,99.849988 C 110.04101,99.849988 138.44679,114.66581 110.04101,136.44359 C 84.510677,156.01688 39.406906,182.39828 39.406906,182.39828 L 8.472471,182.39828 L 8.472471,55.597211 z"
      id="path4585"
      sodipodi:nodetypes="cccsccc" />
 </svg>
