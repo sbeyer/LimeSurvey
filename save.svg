@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,15 +13,23 @@
    height="400"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.44"
+   inkscape:version="0.46"
    sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
    sodipodi:docname="save.svg"
    version="1.0"
-   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\save.png"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey\images\save.png"
    inkscape:export-xdpi="9"
-   inkscape:export-ydpi="9">
+   inkscape:export-ydpi="9"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="400 : 200 : 1"
+       inkscape:persp3d-origin="200 : 133.33333 : 1"
+       id="perspective51" />
     <linearGradient
        id="linearGradient10933">
       <stop
@@ -199,19 +207,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1015.0543"
-     inkscape:cy="50.196242"
+     inkscape:zoom="1.2675"
+     inkscape:cx="200"
+     inkscape:cy="200"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1024"
      inkscape:window-height="712"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-x="66"
+     inkscape:window-y="87"
      showguides="true"
      inkscape:guide-bbox="true"
      width="400px"
-     height="400px" />
+     height="400px"
+     showgrid="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -249,7 +258,7 @@
        d="M 99.995469,64.873649 L 101.58084,172.15102 L 113.73542,184.30559 L 301.33869,183.77714 L 316.13558,167.92334 L 316.13558,49.019852 L 97.881624,52.190608 L 99.995469,64.873649 z "
        id="path7995" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:16.72047234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:16.71999999999999900;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 59.591157,71.262297 L 60.648076,333.37843 L 76.501873,354.51682 L 359.75641,354.51682 L 359.75641,75.48998 L 325.93498,51.180817 L 93.412589,51.180817 L 59.591157,71.262297 z "
        id="path9469" />
     <path
