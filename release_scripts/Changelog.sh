@@ -10,7 +10,8 @@
 # Configuration section
 #
 # REPOSITORY_ROOT = SVN root of your local limesurvey repository
-REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
+#REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
+REPOSITORY_ROOT=../../..
 
 # TMPDIR is the directory where temporary and output files will be written
 TMPDIR=`pwd`
@@ -29,6 +30,7 @@ then
         echo "ERROR: SVN update failed"
         exit 1
 fi
+cd $CURRENTPATH
 
 # Let's get the buildnumber
 CURRENTBUILDNUM=`$SVN info | grep "Revision:" | awk '{print $2}'`
@@ -42,9 +44,10 @@ read OLDBUILD
 
 
 echo "Getting SVN log in XML format from $OLDBUILD to $NEXTBULDNUM"
+pwd
 cd $REPOSITORY_ROOT/source/limesurvey
 $SVN log --xml -r $OLDBUILD:$CURRENTBUILDNUM > $TMPDIR/SVNlog-LS-$OLDBUILD-$NEXTBULDNUM.xml
-
+cd $CURRENTPATH
 
 echo "Parsing SVN log in XML format ==> Changelog-LS-$OLDBUILD-$NEXTBULDNUM.txt"
 $PHP $CURRENTPATH/ParseSVNLogs.php $TMPDIR/SVNlog-LS-$OLDBUILD-$NEXTBULDNUM.xml $TMPDIR/Changelog-LS-$OLDBUILD-$NEXTBULDNUM.txt

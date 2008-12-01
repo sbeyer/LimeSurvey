@@ -58,6 +58,10 @@ foreach ($entries as $key => $entry) {
 	    {
 		    $str[]="-".$line." (".$entry['author'].")\n";
 	    }
+	    elseif (!preg_match("/^Dev/i",$line))
+	    {
+		    $str[]="????".$line." (".$entry['author'].")\n";
+	    }
     }
 
 }
