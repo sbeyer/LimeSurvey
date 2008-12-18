@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -11,15 +11,16 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3668"
    sodipodi:version="0.32"
-   inkscape:version="0.44"
+   inkscape:version="0.46"
    width="400"
    height="400"
    sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
    sodipodi:docname="expired.svg"
    version="1.0"
-   inkscape:export-filename="D:\xampp\xampp\htdocs\phpsurveyor\admin\images\expired.png"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey\images\expired.png"
    inkscape:export-xdpi="9"
-   inkscape:export-ydpi="9">
+   inkscape:export-ydpi="9"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata3673">
     <rdf:RDF>
@@ -33,6 +34,13 @@
   </metadata>
   <defs
      id="defs3671">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="400 : 200 : 1"
+       inkscape:persp3d-origin="200 : 133.33333 : 1"
+       id="perspective24" />
     <linearGradient
        id="linearGradient2774">
       <stop
@@ -99,7 +107,7 @@
        gradientTransform="matrix(1.432005,0,0,0.936274,-122.3292,6.455427)" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="581"
+     inkscape:window-height="667"
      inkscape:window-width="925"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -110,14 +118,15 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.9625"
-     inkscape:cx="200"
-     inkscape:cy="218.99296"
+     inkscape:cx="157.3083"
+     inkscape:cy="200.3507"
      inkscape:window-x="65"
      inkscape:window-y="164"
      inkscape:current-layer="svg3668"
      showborder="true"
      width="400px"
-     height="400px">
+     height="400px"
+     showgrid="false">
     <sodipodi:guide
        orientation="horizontal"
        position="361.55844"
@@ -139,7 +148,7 @@
      sodipodi:nodetypes="csccc" />
   <path
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:24.2243557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 56.308619,50.559603 L 130.86892,50.559603 L 298.12591,155.34732 C 298.12591,155.34732 367.40404,190.43022 300.14099,241.99861 C 239.68681,288.34689 140.94467,350.81634 140.94467,350.81634 L 62.354039,350.81634 L 56.308619,50.559603 z "
+     d="M 62.354039,50.559603 L 130.86892,50.559603 L 298.12591,155.34732 C 298.12591,155.34732 365.38896,190.43022 298.12591,241.99861 C 237.67173,288.34689 130.86892,350.81634 130.86892,350.81634 L 62.354039,350.81634 L 62.354039,50.559603 z"
      id="path4585"
      sodipodi:nodetypes="cccsccc" />
   <rect

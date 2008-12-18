@@ -109,12 +109,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="350"
-     inkscape:cy="520"
+     inkscape:zoom="13.588235"
+     inkscape:cx="18.103896"
+     inkscape:cy="17"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:window-width="640"
+     inkscape:window-height="667"
+     inkscape:window-x="176"
+     inkscape:window-y="232" />
   <metadata
      id="metadata4066">
     <rdf:RDF>
@@ -169,7 +173,7 @@
        id="path17047" />
     <g
        id="g3145"
-       transform="translate(113.54518,320.95649)">
+       transform="translate(114.50185,321.25085)">
       <text
          sodipodi:linespacing="125%"
          id="text22225"
