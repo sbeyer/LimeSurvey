@@ -16,7 +16,7 @@
 
 # VERSION = The default name used for the package file name
 #           You will be asked to confirm this one later anyway
-VERSION="178RCx"
+VERSION="180RC4"
 # REPOSITORY_ROOT = The SVN repository root for limesurvey
 REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
 # AUTOUPLOAD = YES or NO, if set to NO you'll be prompted if you want
@@ -145,7 +145,7 @@ then
 	read SFUSER
 fi
 
-$RSYNC -avP -e ssh $LIMESRUVEYPKGNAME.* $SFUSER@frs.sourceforge.net:uploads/
+$RSYNC -avP -e ssh $TMPDIR/$PKGNAME.* $SFUSER@frs.sourceforge.net:uploads/
 if [ $? -ne 0 ]
 then
 	echo "ERROR: SourceForge Upload failed"
