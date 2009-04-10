@@ -12,8 +12,8 @@
 # History
 # * 2008/10/27: creation date (lemeur)
 
+export LANG=en_EN.UTF-8
 # Parameters
-
 # VERSION = The default name used for the package file name
 #           You will be asked to confirm this one later anyway
 VERSION="180RC4"

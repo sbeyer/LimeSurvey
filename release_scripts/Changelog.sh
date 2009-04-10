@@ -9,6 +9,7 @@
 #
 # Configuration section
 #
+export LANG=en_EN.UTF-8
 # REPOSITORY_ROOT = SVN root of your local limesurvey repository
 #REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
 REPOSITORY_ROOT=../../..
