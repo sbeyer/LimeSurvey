@@ -12,11 +12,11 @@
 # History
 # * 2008/10/27: creation date (lemeur)
 
-export LANG=en_EN.UTF-8
+export LANG=en_US.UTF-8
 # Parameters
 # VERSION = The default name used for the package file name
 #           You will be asked to confirm this one later anyway
-VERSION="180RC4"
+VERSION="181plus"
 # REPOSITORY_ROOT = The SVN repository root for limesurvey
 REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
 # AUTOUPLOAD = YES or NO, if set to NO you'll be prompted if you want
