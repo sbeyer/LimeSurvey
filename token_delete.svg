@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="160"
+   id="Layer_1"
+   inkscape:version="0.46"
+   sodipodi:docbase="D:\Quelltexte\Projekte\phpsurveyor\source\original art"
+   sodipodi:docname="token_delete.svg"
+   sodipodi:version="0.32"
+   space="preserve"
+   style="overflow:visible"
+   version="1.0"
+   viewBox="0 0 136.728 105.837"
+   width="160"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_dev\images\token_delete.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Diagramma</dc:title>
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>unsorted</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Architetto Francesco Rollandin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Architetto Francesco Rollandin</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs39">
+    <linearGradient
+       id="linearGradient2250">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop2252" />
+      <stop
+         style="stop-color:#850000;stop-opacity:1;"
+         offset="1"
+         id="stop2254" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2250"
+       id="linearGradient4975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6494169,0,0,0.700751,176.73532,-114.90191)"
+       x1="-223.55299"
+       y1="187.2412"
+       x2="-93.461372"
+       y2="304.79459" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="400 : 200 : 1"
+       inkscape:persp3d-origin="200 : 133.33333 : 1"
+       id="perspective5168" />
+    <linearGradient
+       y2="448.80219"
+       y1="448.80219"
+       x2="-238.563"
+       x1="-240.5889"
+       id="XMLID_2_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(577.9565,0,0,-725.3492,138642.1,325591.1)">
+      <stop
+         style="stop-color:#FFFFFF"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#000000"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_2_"
+       id="linearGradient5494"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(501.47229,0,0,-671.45082,120315.19,301407.57)"
+       x1="-240.5889"
+       y1="448.80219"
+       x2="-238.563"
+       y2="448.80219" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_2_"
+       id="linearGradient2581"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(501.47229,0,0,-671.45082,120315.19,301407.57)"
+       x1="-240.5889"
+       y1="448.80219"
+       x2="-238.563"
+       y2="448.80219" />
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="Layer_1"
+     inkscape:cx="192.1363"
+     inkscape:cy="100.59737"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="968"
+     inkscape:window-width="1280"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:zoom="1.9075"
+     pagecolor="#ffffff"
+     width="400px"
+     height="400px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="42,380"
+       id="guide5170" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="9.9606815,176.14679"
+       id="guide5172" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="360,224"
+       id="guide5174" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="79.161206,149.93447"
+       id="guide2420" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="149.93447,189.25295"
+       id="guide2422" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="64.482307,9.9606815"
+       id="guide2424" />
+  </sodipodi:namedview>
+  <path
+     style="fill:url(#linearGradient4975);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.54671383px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 96.178946,107.63727 L 71.102991,80.15293 L 42.295514,107.63727 L 14.700241,107.63727 L 14.700241,80.15293 L 42.295514,53.059241 L 14.700241,23.02586 L 14.700241,-1.500952 L 42.295514,-1.500952 L 67.977592,23.02586 L 96.178946,-1.500952 L 122.553,-1.500952 L 122.553,23.02586 L 96.178946,53.059241 L 122.0962,80.15293 L 122.553,107.63727 L 96.178946,107.63727 z"
+     id="path4214"
+     sodipodi:nodetypes="ccccccccccccccccc" />
+</svg>
