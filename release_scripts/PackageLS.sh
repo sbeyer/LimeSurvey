@@ -16,7 +16,8 @@ export LANG=en_US.UTF-8
 # Parameters
 # VERSION = The default name used for the package file name
 #           You will be asked to confirm this one later anyway
-VERSION="181plus"
+VERSION="185plus"
+REMOTEPATH="/home/frs/project/l/li/limesurvey/1._LimeSurvey_stable/1.85+/"
 # REPOSITORY_ROOT = The SVN repository root for limesurvey
 REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
 # AUTOUPLOAD = YES or NO, if set to NO you'll be prompted if you want
@@ -70,6 +71,7 @@ then
 fi
  
 rm -Rf $TMPDIR/limesurvey
+rm -Rf $TMPDIR/limesurveyUpload
 rm -f $TMPDIR/limesurvey*
 cd $REPOSITORY_ROOT/source
 
@@ -145,7 +147,16 @@ then
 	read SFUSER
 fi
 
-$RSYNC -avP -e ssh $TMPDIR/$PKGNAME.* $SFUSER@frs.sourceforge.net:uploads/
+mkdir $TMPDIR/limesurveyUpload
+mv $TMPDIR/$PKGNAME.* $TMPDIR/limesurveyUpload
+cp $TMPDIR/limesurvey/docs/release_notes_and_upgrade_instructions.txt $TMPDIR/limesurveyUpload
+
+#$RSYNC -avP -e ssh $TMPDIR/$PKGNAME.* $SFUSER@frs.sourceforge.net:uploads/
+#$RSYNC --delete --delete-after -avP -r -e ssh $TMPDIR/limesurvey/docs/release_notes_and_upgrade_instructions.txt $TMPDIR/$PKGNAME.* $SFUSER,limesurvey@frs.sourceforge.net:$REMOTEPATH
+
+echo "Synching /tmp/limesurveyUpload directory to release directory. This will remove old files"
+$RSYNC --delete --delete-after -avP -r -e ssh $TMPDIR/limesurveyUpload/  $SFUSER,limesurvey@frs.sourceforge.net:$REMOTEPATH
+
 if [ $? -ne 0 ]
 then
 	echo "ERROR: SourceForge Upload failed"
