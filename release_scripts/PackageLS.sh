@@ -16,7 +16,7 @@ export LANG=en_US.UTF-8
 # Parameters
 # VERSION = The default name used for the package file name
 #           You will be asked to confirm this one later anyway
-VERSION="185plus"
+VERSION="187rc1"
 REMOTEPATH="/home/frs/project/l/li/limesurvey/1._LimeSurvey_stable/1.85+/"
 # REPOSITORY_ROOT = The SVN repository root for limesurvey
 REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
@@ -85,12 +85,12 @@ fi
 echo "OK"
 
 #Modify build version in common.php
-echo -n "Updating buildnumber in common.php : "
+echo -n "Updating buildnumber in version.php : "
 cd /tmp
-sed -i "s/^\$buildnumber = \"[0-9]*\";$/\$buildnumber = \"$BUILDNUM\";/" limesurvey/common.php
+sed -i "s/\$buildnumber = '[0-9]*';/\$buildnumber = '$BUILDNUM';/" limesurvey/version.php
 if [ $? -ne 0 ]
 then
-	echo "ERROR: Update buildnumber in common.php failed"
+	echo "ERROR: Update buildnumber in version.php failed"
 	exit 4
 fi
 echo "OK"
