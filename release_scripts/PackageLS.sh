@@ -16,8 +16,8 @@ export LANG=en_US.UTF-8
 # Parameters
 # VERSION = The default name used for the package file name
 #           You will be asked to confirm this one later anyway
-VERSION="187rc1"
-REMOTEPATH="/home/frs/project/l/li/limesurvey/1._LimeSurvey_stable/1.85+/"
+VERSION="187plus"
+REMOTEPATH="/home/frs/project/l/li/limesurvey/1._LimeSurvey_stable/1.87+/"
 # REPOSITORY_ROOT = The SVN repository root for limesurvey
 REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
 # AUTOUPLOAD = YES or NO, if set to NO you'll be prompted if you want
@@ -149,7 +149,7 @@ fi
 
 mkdir $TMPDIR/limesurveyUpload
 mv $TMPDIR/$PKGNAME.* $TMPDIR/limesurveyUpload
-cp $TMPDIR/limesurvey/docs/release_notes_and_upgrade_instructions.txt $TMPDIR/limesurveyUpload
+cp $TMPDIR/limesurvey/docs/*release_notes.txt $TMPDIR/limesurveyUpload
 
 #$RSYNC -avP -e ssh $TMPDIR/$PKGNAME.* $SFUSER@frs.sourceforge.net:uploads/
 #$RSYNC --delete --delete-after -avP -r -e ssh $TMPDIR/limesurvey/docs/release_notes_and_upgrade_instructions.txt $TMPDIR/$PKGNAME.* $SFUSER,limesurvey@frs.sourceforge.net:$REMOTEPATH
