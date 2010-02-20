@@ -8,15 +8,42 @@
 # Requirements
 # * Linux system with svn installed and a Limesurvey repository
 # * p7zip package installed
+# * curl with twitter support for autotwitt feature
 #
 # History
 # * 2008/10/27: creation date (lemeur)
+# * 2009/11/08: upload modified to fit the enw sf.net upload procedure (lemeur)
+# * 2010/02/20: autotwitt feature (lemeur)
 
-export LANG=en_US.UTF-8
 # Parameters
+#-------------
+#-------------
+#
+# Path to required applications
+# -----------------------------
+#
+SVN=/usr/bin/svn
+P7Z=/usr/bin/7za
+RSYNC=/usr/bin/rsync
+CURL=/usr/bin/curl
+#
+# Path to temp directory
+# ----------------------
+#
+# TMPDIR = the target temp directory in which you want to get the packages
+TMPDIR=/tmp
+#
+# Texts
+# -----
 # VERSION = The default name used for the package file name
 #           You will be asked to confirm this one later anyway
 VERSION="187plus"
+VERSIONTXT="LimeSurvey 1.87+"
+#
+# Upload setup
+# ------------
+#
+# REPOSITORY_ROOT = The SVN repository root for limesurvey
 REMOTEPATH="/home/frs/project/l/li/limesurvey/1._LimeSurvey_stable/1.87+/"
 # REPOSITORY_ROOT = The SVN repository root for limesurvey
 REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
@@ -26,14 +53,24 @@ REPOSITORY_ROOT=/path/to/mysvn-directory/limesurvey
 # SFUSER = used if AUTOUPLOAD is set to YES, won't ask you your Sf.net username
 AUTOUPLOAD="NO"
 SFUSER=mysfloginname
-# TMPDIR = the target temp directory in which you want to get the packages
-TMPDIR=/tmp
+#
+# Twitter Feature
+# ---------------
+#
+# AUTOTWITT = YES or NO, if set to NO you'll be prompted if you want
+#             to automatically send a tweet for the new release
+# TWEETMSG = The twitter message to append to the full text release name
+# TWITTERUSER = The twitter username (if empty the script will ask for it)
+# TWITTERPASS = The twitter password (if empty the script will ask for it)
+AUTOTWITT="NO"
+TWEETMSG=" released - update now: http://www.limesurvey.org/en/download"
+TWITTERUSER="limesurvey"
+TWITTERPASS=""
 
-# Path to used applications
-SVN=/usr/bin/svn
-P7Z=/usr/bin/7za
-RSYNC=/usr/bin/rsync
-
+####################################################################
+#################Don't modify below#################################
+####################################################################
+export LANG=en_US.UTF-8
 # Let's update the repository first
 CURRENTPATH=`pwd`
 echo "Updating the repository first"
@@ -162,6 +199,46 @@ then
 	echo "ERROR: SourceForge Upload failed"
 	exit 10
 fi
-
 echo "Packages upload succeeded"
+
+
+if [ $AUTOTWITT != "YES" ]
+then
+	echo -n "Do you want to Tweet the new release [N]:"
+	read gotwitt
+	if [ "$gotwitt" != "Y" -a "$gotwitt" != "y" ]
+	then
+		echo "No tweet sent for new release"	
+	fi
+fi
+if [ $AUTOTWITT = "YES" -o "$gotwitt" = "y" -o "$gotwitt" = "Y" ]
+then
+	tweet_this "$VERSIONTXT $BUILDNUM $TWEETMSG"
+fi
+
+tweet_this()
+{
+  if [ -z $TWITTERUSER ]
+  then
+    echo -n "Enter twitter username: "
+    read TWITTERUSER
+  else
+    echo "Twitter username is '$TWITTERUSER'"
+  fi
+
+  if [ -z $TWITTERPASS ]
+  then
+    echo -n "Enter twitter password for '$TWITTERUSER': "
+    stty -echo
+    read TWITTERPASS
+    stty echo
+  fi
+  echo
+
+  MESSAGE="$*"
+  curl -u $TWITTERUSER:$TWITTERPASS -d status="$MESSAGE" http://twitter.com/statuses/update.json
+  echo
+
+}
+
 exit 0
