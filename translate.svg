@@ -14,13 +14,13 @@
    height="40"
    id="svg5816"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel 22040"
-   sodipodi:docname="internet-group-chat.svg"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="translate.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"
-   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_dev\images\translate.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_dev\images\translate_30.png"
+   inkscape:export-xdpi="67.5"
+   inkscape:export-ydpi="67.5">
   <defs
      id="defs3">
     <inkscape:perspective
@@ -105,6 +105,13 @@
        y2="23.03454"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.82083821,0,0,0.82083821,1.5939094,19.993268)" />
+    <inkscape:perspective
+       id="perspective2847"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -255,5 +262,16 @@
          id="tspan18135"
          x="49.757736"
          y="13.979171" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.78251648px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="14.589867"
+       y="38.198719"
+       id="text18121-1"><tspan
+         sodipodi:role="line"
+         id="tspan18123-7"
+         x="14.589867"
+         y="38.198719"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MS PMincho;-inkscape-font-specification:MS PMincho">α</tspan></text>
   </g>
 </svg>

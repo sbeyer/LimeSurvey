@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -11,15 +12,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1340"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.47 r22583"
    width="400"
    height="400"
-   sodipodi:docbase="/var/www/localhost/htdocs/limesurvey-art"
    sodipodi:docname="quota.svg"
    version="1.0"
-   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey/images/quota.png"
-   inkscape:export-xdpi="9"
-   inkscape:export-ydpi="9"
+   inkscape:export-filename="D:\web\xampp\htdocs\limesurvey_dev\images\quota_30.png"
+   inkscape:export-xdpi="6.75"
+   inkscape:export-ydpi="6.75"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata1345">
@@ -29,6 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -208,7 +209,8 @@
      height="400px"
      showgrid="false"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
        position="200,260"
