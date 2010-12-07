@@ -186,7 +186,7 @@ fi
 
 mkdir $TMPDIR/limesurveyUpload
 mv $TMPDIR/$PKGNAME.* $TMPDIR/limesurveyUpload
-cp $TMPDIR/limesurvey/docs/*release_notes.txt $TMPDIR/limesurveyUpload
+cp $TMPDIR/limesurvey/docs/*release_notes.txt $TMPDIR/limesurveyUpload/README
 
 #$RSYNC -avP -e ssh $TMPDIR/$PKGNAME.* $SFUSER@frs.sourceforge.net:uploads/
 #$RSYNC --delete --delete-after -avP -r -e ssh $TMPDIR/limesurvey/docs/release_notes_and_upgrade_instructions.txt $TMPDIR/$PKGNAME.* $SFUSER,limesurvey@frs.sourceforge.net:$REMOTEPATH
